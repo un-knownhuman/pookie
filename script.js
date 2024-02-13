@@ -5,7 +5,7 @@ async function sendMessageToDiscord() {
     alert('Message sent to Discord server!');
   } catch (error) {
     console.error('Error sending message:', error);
-    alert('An error occurred while sending the message.');
+    alert('<3');
   }
 }
 
